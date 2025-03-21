@@ -302,3 +302,7 @@
 [8] Personalized random walk. https://www.youtube.com/watch?v=HbzQzUaJ_9I.  
 [9] LinkedIn’s PYMK system. https://engineering.linkedin.com/blog/2021/optimizing-pymk-for-equity-in-network-creation.  
 [10] Addressing delayed feedback. https://arxiv.org/pdf/1907.06558.pdf  
+
+## Video
+[Machine learning System Design](https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn)
+
